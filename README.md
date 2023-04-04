@@ -1,3 +1,11 @@
+# View Live Projects on CodePen
+
+<h2>Front End Development Libraries Projects</h2>
+<ul>
+<a href="https://codepen.io/LeosLastWill/pen/ZEqzKZK" target="_blank"><li>Random Quote Generator</li></a>
+</ul>
+
+
 # Certifications
 
 <img src="./Certifications/freeCodeCamp-Responsive-Web-Design-Cert.png">
