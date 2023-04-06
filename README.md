@@ -26,7 +26,9 @@
 <ul>
 <a href="https://codepen.io/LeosLastWill/pen/PoyYvBL"><li>Drum Machine</li></a>
 </ul>
-
+<ul>
+<a href="https://codepen.io/LeosLastWill/pen/MWPWOyJ"><li>Calculator</li></a>
+</ul>
 
 # Certifications
 
