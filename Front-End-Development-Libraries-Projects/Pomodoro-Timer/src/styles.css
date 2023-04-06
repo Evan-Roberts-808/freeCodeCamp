@@ -1,0 +1,66 @@
+h1 {
+    margin: 0 auto;
+    text-align: center;
+    padding-top:10vh;
+    padding-bottom: 5vh;
+}
+
+h2 {
+    font-size: 20px;
+    text-align: center;
+}
+
+.clock-body {
+    background-color: #55cfcd;
+    padding: 50px;
+    border-radius: 20px;
+}
+
+.titles {
+    padding-bottom: 15px;
+}
+
+.break {
+    background-color:#f5ebd7;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+    height: 50%;
+}
+
+#break-session, #work-session, #timer-minutes, #timer-seconds {
+    font-size: 25px ;
+}
+
+.work {
+    background-color:#f5ebd7;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+    height: 50%;
+}
+
+#title {
+    text-align: center;
+}
+
+.session {
+    background-color:#f5ebd7;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.buttons {
+    background-color: #5a5a5a;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    font-size: 16px;
+    border-radius: 50px;
+    padding: 10px;
+    
+}
