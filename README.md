@@ -28,3 +28,4 @@
 
 <img src="./Certifications/freeCodeCamp-Responsive-Web-Design-Cert.png">
 <img src="./Certifications/freeCodeCamp-JavaScript-Algorithms-and-Data-Structures.png">
+<img src="./Certifications/freeCodeCamp-Front-End-Development-Libraries-Cert.png">
