@@ -22,6 +22,7 @@
 <a href="https://codepen.io/LeosLastWill/pen/poxzGPo"><li>Markdown Previewer</li></a>
 <a href="https://codepen.io/LeosLastWill/pen/PoyYvBL"><li>Drum Machine</li></a>
 <a href="https://codepen.io/LeosLastWill/pen/MWPWOyJ"><li>Calculator</li></a>
+<a href="https://codepen.io/LeosLastWill/pen/poxoOja"><li>25 + 5 Clock</li></a>
 </ul>
 
 # Certifications
